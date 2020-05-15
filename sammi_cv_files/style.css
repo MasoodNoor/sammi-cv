@@ -81,7 +81,7 @@ hr {
 }
 
 .jumbotron {
-  background: no-repeat center right fixed url(pm.jpg);
+  background: no-repeat fixed url(pm.jpg);
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
@@ -146,7 +146,7 @@ hr {
   display: block;
   position: absolute;
   bottom: 0px;
-  left: 5%;
+  left: 0%;
   background-color: #222222;
   text-align: center;
   z-index: 6;
@@ -173,7 +173,7 @@ hr {
   background-color: #222222;
   position: absolute;
   top: 100%;
-  left: 5%;
+  left: 0%;
   width: 110px;
   z-index: 999;
 }
